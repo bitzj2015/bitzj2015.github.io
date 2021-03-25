@@ -10,12 +10,12 @@ redirect_from:
 
 Biography
 =========
-I am a second-year Electrical Engineering Phd student at University of Southern California, supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from [Beijing Institute of Technology](http://www.bit.edu.cn/), supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+I am a second-year Electrical Engineering PhD student at University of Southern California, supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from [Beijing Institute of Technology](http://www.bit.edu.cn/), supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
 Education
 =========
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
-  * Annerberg fellowship Phd student
+  * Annerberg Fellowship PhD student
   * Major: Electrical Engineering
   * GPA: 3.95/4.0
   
