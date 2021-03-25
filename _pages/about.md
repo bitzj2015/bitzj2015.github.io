@@ -10,15 +10,17 @@ redirect_from:
 
 Biography
 =========
-I am a first-year Phd student of Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). Previously, I graduated from Xu Teli Elite Class (or [Xu Teli College](http://admission.bit.edu.cn/colleges/xtl.html)), Beijing Institute of Technology ([BIT](http://www.bit.edu.cn/)), amjoring in automation. Since the end of 2016, I have become a member of State Key Laboratory of Complex System Intelligent Control and Decision and my advisor is [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm). 
+I am a second-year Phd student of Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology ([BIT](http://www.bit.edu.cn/)), supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm). 
 
 Education
 =========
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
   * Annerberg fellowship Phd student
+  * Major: Electrical Engineering
+  * GPA: 3.95/4.0
   
 * Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
-  * Major in automation
+  * Major: Automation
   * GPA: 92.31/100 (first 3 years, rank: 1/17)
   * TOEFL: 105 (R:30, L:27, S:22, W:26)
   * GRE: 327 (V:157, Q:170, AW:3.5)
@@ -64,23 +66,18 @@ Skills
 * Programming language: C, C++, Matlab, Python, Scala.
 * Development environment or tools: Tensorflow, Keras, Ubuntu, Spark, LLVM.
 
-Papers
+Publications
 ======
+* Jiang Zhang, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs [C]. OSDI, 2021 (conditional accept).
+* Yufeng Zhan, Jiang Zhang. [An Incentive Mechanism Design for Efficient Edge Learning by Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9155268) [C]. INFOCOM, 2020.
 * Jiang Zhang, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
-* Yuanqing Xia, Ganghui Shen, Xiao Pan, Jiang Zhang. The GNC Scheme for Mars Entry, Descent and Landing process -- 7 minutes of terror [M]. Chapter 8: Research on Martian Visual Navigation during Landing Phase. Science Press Publisher, 2018.
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, Jiang Zhang, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
-* Yufeng Zhan, Jiang Zhang, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network (Accepted, 2019).
-
-Patterns
-========
-* Jiang Zhang, Yu Wang, Jingxin Zhang. Intelligent Medical Cloud System [P]. (Submitted)
-* Qi Liu, Jiang Zhang, Dengkai Zhang, Xingyu Zhou, Xin Zhou. A Two-dimensional Spherical Stability Evaluation Experimental Platform [P]. (Submitted)
-* Jiang Zhang, Yu Wang, Xingyu Lin. A Method and Device for Determining the Improved
-Model of Health Indicators [P]. (Submitted)
+* Yufeng Zhan, Jiang Zhang, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
+See my [Google Scholar](https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en) for more details.
 
 Awards and Honors
 =================
-* Annenberg Fellowship, 2019
+* USC Annenberg Fellowship, 2019
 * Grand Prize of the “Century Cup” Innovation Competition at BIT (top 2), 2018
 * First Prize of the “Century Cup” Innovation Competition at BIT (top 10%, twice), 2018
 * “Huixian” Academic Scholarship of XuTeli College at BIT (top 5), 2018
