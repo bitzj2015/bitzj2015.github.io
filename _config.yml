@@ -10,7 +10,7 @@ locale                   : "en-China"
 title                    : "Jiang Zhang / Academic Page"
 title_separator          : "-"
 name                     : &name "Jiang Zhang"
-description              : &description "Undergraduate at Beijing INstitute of Technology"
+description              : &description "EE PhD student at University of Southern California"
 url                      : https://bitzj2015.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bitzj2015/bitzj2015.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Jiang Zhang"
   avatar           : "004.JPG"
-  bio              : "An undergraduate at School of Automation, Beijing Institute of Technology"
-  location         : "Beijing, China"
+  bio              : "EE PhD student at University of Southern California"
+  location         : "Los Angeles, USA"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "bitzj2015@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en"
+  email            : "jiangzha@usc.edu"
   uri              :
   bitbucket        :
   codepen          :
