@@ -38,7 +38,7 @@ Research Experience
 * 01/01/2017 - 03/04/2019: Research Assistant
    * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
    * Research interests: deep reinforcement learning, mobile crowdsensing and control theory
-   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao)
+   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154)
 
 Work experience
 ===============
