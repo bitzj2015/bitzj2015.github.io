@@ -17,7 +17,7 @@ Education
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
   * Annerberg Fellowship PhD student
   * Major: Electrical Engineering
-  * GPA: 3.95/4.0
+  * GPA: 3.96/4.0
   
 * Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
   * Major: Automation
