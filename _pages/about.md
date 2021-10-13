@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology, supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology, supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
 Education
 =========
@@ -38,7 +38,7 @@ Research Experience
 * 01/01/2017 - 03/04/2019: Research Assistant
    * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
    * Research interests: deep reinforcement learning, mobile crowdsensing and control theory
-   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154)
+   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), [Prof. Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
 
 Work experience
 ===============
