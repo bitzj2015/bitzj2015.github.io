@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am a second-year Electrical Engineering PhD student at University of Southern California, supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from [Beijing Institute of Technology](http://www.bit.edu.cn/), supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology, supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://www.researchgate.net/scientific-contributions/Yufeng-Zhan-2084865154). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
 Education
 =========
@@ -21,7 +21,7 @@ Education
   
 * Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
   * Major: Automation
-  * GPA: 92.31/100 (first 3 years, rank: 1/17)
+  * GPA: 92.31/100 (rank: 1/17)
 
 Research Experience
 ===================
