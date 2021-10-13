@@ -20,6 +20,7 @@ Education
   * GPA: 3.96/4.0
   
 * Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
+  * 
   * Major: Automation
   * GPA: 92.31/100 (rank: 1/17)
 
