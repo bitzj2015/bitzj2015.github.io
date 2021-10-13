@@ -50,7 +50,7 @@ Work experience
 * 05/18/2020 - 08/21/2020: Research Scientist Internship
   * Deep Learning Platform Group, Alexa AI, Amazon
   * Research on heuristics for effective quantization
-  
+
 Skills
 ======
 * Programming languages: C, C++, Matlab, Python, LLVM.
