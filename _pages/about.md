@@ -53,8 +53,8 @@ Work experience
   
 Skills
 ======
-* Programming language: C, C++, Matlab, Python, Scala.
-* Development environment or tools: Tensorflow, Keras, Ubuntu, Spark, LLVM.
+* Programming languages: C, C++, Matlab, Python, LLVM.
+* Development environments or tools: Ubuntu, LLVM, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
 
 Publications
 ======
