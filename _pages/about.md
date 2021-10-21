@@ -41,7 +41,7 @@ Research Experience
    * Research interests: deep reinforcement learning, mobile crowdsensing and control theory
    * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), [Prof. Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
 
-Work experience
+Work Experience
 ===============
 * 05/17/2021 - 08/20/2021: Research Scientist Internship
   * Deep Learning Platform Group, Alexa AI, Amazon
@@ -50,11 +50,6 @@ Work experience
 * 05/18/2020 - 08/21/2020: Research Scientist Internship
   * Deep Learning Platform Group, Alexa AI, Amazon
   * Research on heuristics for effective quantization
-
-Skills
-======
-* Programming languages: C, C++, Matlab, Python, LLVM.
-* Development environments or tools: Ubuntu, LLVM, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
 
 Publications
 ======
@@ -66,12 +61,17 @@ Publications
 * Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
 * See my [Google Scholar](https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en) for more details.
 
+Skills
+======
+* Programming languages: C, C++, Matlab, Python, LLVM.
+* Development environments or tools: Ubuntu, LLVM, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
+
 Awards and Honors
 =================
 * USC Annenberg Fellowship, 2019
 * Meritorious Winner of the MCM (top 9%, global), 2017
 * First Scholarship of BIT (five semesters, top 10%), 2015-2018
-* First Prize of the China Undergraduate Mathematical Contest in Modeling (Non Mathematical Speciality, rank 20 in Beijing), 2016
+* First Prize of the China Undergraduate Mathematics Competition (Non Mathematical Speciality, rank 20 in Beijing), 2016
 * National Scholarship (top 5%), 2016
 
 
