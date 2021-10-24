@@ -54,13 +54,10 @@ Work Experience
 See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
 Publications
-======
-### Conferences
+============
 * **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. HARPO: Learning to Subvert Online Behavioral Advertising [C]. NDSS, 2022.
 * **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021.
 * Yufeng Zhan, **Jiang Zhang**. [An Incentive Mechanism Design for Efficient Edge Learning by Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9155268) [C]. INFOCOM, 2020.
-
-### Journals
 * **Jiang Zhang**, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, **Jiang Zhang**, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
 * Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
