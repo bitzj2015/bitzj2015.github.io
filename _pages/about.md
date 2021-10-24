@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by [Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
 
 Education
 =========
@@ -50,6 +50,7 @@ Work Experience
 * 05/18/2020 - 08/21/2020: Research Scientist Internship
   * Deep Learning Platform Group, Alexa AI, Amazon
   * Research on heuristics for effective quantization
+See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
 Publications
 ======
@@ -61,7 +62,8 @@ Publications
 * **Jiang Zhang**, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, **Jiang Zhang**, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
 * Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
-* See my [Google Scholar](https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en) for more details.
+
+See my [Google Scholar](https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en) for more details.
 
 Skills
 ======
