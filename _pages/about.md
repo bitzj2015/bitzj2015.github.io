@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by [Prof. Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology, supervised by [Prof. Xia Yuanqing](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and [Prof. Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by [Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
 Education
 =========
@@ -38,8 +38,8 @@ Research Experience
   
 * 01/01/2017 - 03/04/2019: Research Assistant
    * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
-   * Research interests: deep reinforcement learning, mobile crowdsensing and control theory
-   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), [Prof. Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
+   * Research interests: Deep reinforcement learning, mobile crowdsensing and control theory
+   * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
 
 Work Experience
 ===============
@@ -53,9 +53,11 @@ Work Experience
 
 Publications
 ======
-* **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. HARPO: Learning to Subvert Online Behavioral Advertising [C]. NDSS, 2022 (to appear).
+### Conferences
+* **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. HARPO: Learning to Subvert Online Behavioral Advertising [C]. NDSS, 2022.
 * **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021.
 * Yufeng Zhan, **Jiang Zhang**. [An Incentive Mechanism Design for Efficient Edge Learning by Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9155268) [C]. INFOCOM, 2020.
+### Journals
 * **Jiang Zhang**, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, **Jiang Zhang**, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
 * Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
@@ -64,7 +66,7 @@ Publications
 Skills
 ======
 * Programming languages: C, C++, Matlab, Python, LLVM.
-* Development environments or tools: Ubuntu, LLVM, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
+* Development environments or tools: Ubuntu, Tensorflow, PyTorch, Spark, Ray, Docker, Selenium.
 
 Awards and Honors
 =================
