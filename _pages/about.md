@@ -43,6 +43,10 @@ Research Experience
 
 Work Experience
 ===============
+* 05/16/2022 - Present: Applied Scientist Internship
+  * Deep Learning Platform Group, Alexa AI, Amazon
+  * Research on detecting personal identifiable information
+
 * 05/17/2021 - 08/20/2021: Applied Scientist Internship
   * Deep Learning Platform Group, Alexa AI, Amazon
   * Research on detecting personal identifiable information
