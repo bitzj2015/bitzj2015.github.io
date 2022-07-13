@@ -66,6 +66,7 @@ Conference Publications
 Journal Publications
 ============
 * **Jiang Zhang**, Lillian Clark, Matthew Clark, Konstantinos Psounis, Peter Kairouz. [Privacy-Utility Trades in Crowdsourced Signal Map Obfuscation](https://arxiv.org/pdf/2201.04782.pdf) [J]. Computer Networks, 2022.
+* Yufeng Zhan, Song Guo, Peng Li, **Jiang Zhang**. [A deep reinforcement learning based offloading game in edge computing](https://ieeexplore.ieee.org/abstract/document/8967118) [J]. IEEE Transactions on Computers, 2020.
 * **Jiang Zhang**, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, **Jiang Zhang**, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
 * Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
