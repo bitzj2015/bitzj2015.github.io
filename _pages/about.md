@@ -59,6 +59,7 @@ See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more d
 
 Conference Publications
 ============
+* Ahmed Roushdy Elkordy, **Jiang Zhang**, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?]([https://arxiv.org/abs/2111.05792v2](https://petsymposium.org/cfp23.php)) [C]. PETS, 2023(1).
 * **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
 * **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021.
 * Yufeng Zhan, **Jiang Zhang**. [An Incentive Mechanism Design for Efficient Edge Learning by Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9155268) [C]. INFOCOM, 2020.
