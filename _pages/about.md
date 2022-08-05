@@ -44,15 +44,15 @@ Research Experience
 Work Experience
 ===============
 * 05/16/2022 - Present: Applied Scientist Internship
-  * Deep Learning Platform Group, Alexa AI, Amazon
-  * Research on detecting personal identifiable information
+  * Alexa AI, Amazon
+  * Research on zero-shot cross-lingual named entity recognition
 
 * 05/17/2021 - 08/20/2021: Applied Scientist Internship
-  * Deep Learning Platform Group, Alexa AI, Amazon
+  * Alexa AI, Amazon
   * Research on detecting personal identifiable information
 
 * 05/18/2020 - 08/21/2020: Applied Scientist Internship
-  * Deep Learning Platform Group, Alexa AI, Amazon
+  * Alexa AI, Amazon
   * Research on heuristics for effective quantization
 
 See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
