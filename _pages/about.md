@@ -15,12 +15,12 @@ I am a 3rd-year Electrical Engineering PhD student at [University of Southern Ca
 Education
 =========
 * Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
-  * PhD student
+  * Degree: PhD
   * Major: Electrical Engineering
   * GPA: 3.96/4.0
   
 * Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
-  * Undergraduate student
+  * Degree: Bachelor
   * Major: Automation
   * GPA: 92.31/100 (rank: 1/17)
 
@@ -43,7 +43,7 @@ Research Experience
 
 Work Experience
 ===============
-* 05/16/2022 - Present: Applied Scientist Internship
+* 05/16/2022 - 08/19/2022: Applied Scientist Internship
   * Alexa AI, Amazon
   * Research on zero-shot cross-lingual named entity recognition
 
