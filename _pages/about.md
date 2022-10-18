@@ -57,7 +57,11 @@ Work Experience
 
 See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
-Conference Publications
+Preprints
+============
+* **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136).
+
+Conference Publications (* means equal contributions)
 ============
 * Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1).
 * **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
