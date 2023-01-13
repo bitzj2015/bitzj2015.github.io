@@ -10,18 +10,28 @@ redirect_from:
 
 Biography
 =========
-I am a 3rd-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
+I am a 4th-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
 
 Education
 =========
-* Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-Present
+* University of Southern California, 08/2019-Present
   * Degree: PhD
   * Major: Electrical Engineering
-  * GPA: 3.96/4.0
+  * GPA: 3.9/4.0
+
+* University of Southern California, 08/2019-12/2022
+  * Degree: MS
+  * Major: Computer Science
+  * GPA: 3.9/4.0
+
+* University of Southern California, 08/2019-05/2021
+  * Degree: MS
+  * Major: Electrical Engineering
+  * GPA: 4.0/4.0
   
-* Xu Teli Elite Class, Beijing Institute of Technology, 09/2015-06/2019
+* Beijing Institute of Technology, 09/2015-06/2019
   * Degree: Bachelor
-  * Major: Automation
+  * Major: Automation (Xu Teli Elite Class)
   * GPA: 92.31/100 (rank: 1/17)
 
 Research Experience
