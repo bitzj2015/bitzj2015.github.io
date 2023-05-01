@@ -69,10 +69,11 @@ See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more d
 
 Preprints
 ============
-* **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136).
+* Bakopoulou, Evita, **Jiang Zhang**, Mengwei Yang, Konstantinos Psounis, and Athina Markopoulou. "Location leakage in federated signal maps." arXiv preprint arXiv:2112.03452 (2021).
 
 Conference Publications (* means equal contributions)
 ============
+* **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4).
 * Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1).
 * **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
 * **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021.
