@@ -69,7 +69,7 @@ See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more d
 
 Preprints
 ============
-* Bakopoulou, Evita, **Jiang Zhang**, Mengwei Yang, Konstantinos Psounis, and Athina Markopoulou. "Location leakage in federated signal maps." arXiv preprint arXiv:2112.03452 (2021).
+* Bakopoulou, Evita, **Jiang Zhang**, Mengwei Yang, Konstantinos Psounis, and Athina Markopoulou. [Location leakage in federated signal maps](https://arxiv.org/pdf/2112.03452.pdf).
 
 Conference Publications (* means equal contributions)
 ============
