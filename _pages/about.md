@@ -40,16 +40,19 @@ Research Experience
   * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
   * Research interests: Machine learning and data privacy with applications to computer networks
   * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
+  * Publications: NDSS (1), PETS (2), etc.
   
 * 03/05/2019-06/30/2019: Research Internship
   * AST Lab, Department of Computer Science, ETH Zurich, 
   * Research interests: LLVM IR and sanitizers
   * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
+  * Publications: OSDI (1).
   
 * 01/01/2017 - 03/04/2019: Research Assistant
    * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
    * Research interests: Deep reinforcement learning, mobile crowdsensing and control theory
    * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
+   * Publications: INFOCOM (1), TMC (1), TC(1), etc.
 
 Work Experience
 ===============
