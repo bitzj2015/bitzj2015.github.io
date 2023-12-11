@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am a 4th-year Electrical Engineering PhD student at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
+I am a EE PhD Candidate at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
 
 Education
 =========
@@ -40,7 +40,7 @@ Research Experience
   * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
   * Research interests: Machine learning and data privacy with applications to computer networks
   * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
-  * Publications: NDSS (1), PETS (2), etc.
+  * Publications: NDSS (1), PETS (2), AAAI (1) etc.
   
 * 03/05/2019-06/30/2019: Research Internship
   * AST Lab, Department of Computer Science, ETH Zurich, 
@@ -57,6 +57,10 @@ Research Experience
 Work Experience
 ===============
 * 05/16/2022 - 08/19/2022: Applied Scientist Internship
+  * AGI, Amazon
+  * Research on toxic content detection using LLMs
+ 
+* 05/16/2022 - 08/19/2022: Applied Scientist Internship
   * Alexa AI, Amazon
   * Research on zero-shot cross-lingual named entity recognition
 
@@ -70,12 +74,11 @@ Work Experience
 
 See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
 
-Preprints
-============
-* Evita Bakopoulou, **Jiang Zhang**, Mengwei Yang, Konstantinos Psounis, and Athina Markopoulou. [Location leakage in federated signal maps](https://arxiv.org/pdf/2112.03452.pdf).
 
 Conference Publications (* means equal contributions)
 ============
+* **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling
+Large Language Models]() [C]. AAAI, 2024.
 * **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4).
 * Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1).
 * **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
@@ -84,6 +87,7 @@ Conference Publications (* means equal contributions)
 
 Journal Publications
 ============
+* Evita Bakopoulou, Mengwei Yang, **Jiang Zhang**, Konstantinos Psounis, Athina Markopoulou. [Location Leakage in Federated Signal Maps](https://arxiv.org/pdf/2112.03452.pdf). IEEE Transactions on Mobile Computing, 2023.
 * **Jiang Zhang**, Lillian Clark, Matthew Clark, Konstantinos Psounis, Peter Kairouz. [Privacy-Utility Trades in Crowdsourced Signal Map Obfuscation](https://arxiv.org/pdf/2201.04782.pdf) [J]. Computer Networks, 2022.
 * Yufeng Zhan, Song Guo, Peng Li, **Jiang Zhang**. [A deep reinforcement learning based offloading game in edge computing](https://ieeexplore.ieee.org/abstract/document/8967118) [J]. IEEE Transactions on Computers, 2020.
 * **Jiang Zhang**, Yuanqing Xia, Ganghui Shen. [A Novel Learning-based Global Path Planning Algorithm for Planetary Rovers](https://www.sciencedirect.com/science/article/pii/S0925231219307994) [J]. Neurocomputing, 2019.
