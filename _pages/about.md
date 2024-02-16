@@ -56,7 +56,7 @@ Research Experience
 
 Work Experience
 ===============
-* 05/16/2022 - 08/19/2022: Applied Scientist Internship
+* 05/15/2023 - 07/28/2023: Applied Scientist Internship
   * AGI, Amazon
   * Research on toxic content detection using LLMs
  
