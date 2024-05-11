@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am an EE PhD at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
+I am a Research Scientist at Meta. Previously, I completed my PhD degree in EE at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
 
 Education
 =========
@@ -36,7 +36,7 @@ Education
 
 Research Experience
 ===================
-* 08/19/2019-Present: Research Asistant
+* 08/19/2019-05/08/2024: Research Asistant
   * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
   * Research interests: Machine learning and data privacy with applications to computer networks
   * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
@@ -56,6 +56,9 @@ Research Experience
 
 Work Experience
 ===============
+* 05/13/2024 - Present: Research Scientist
+  * Meta
+ 
 * 05/15/2023 - 07/28/2023: Applied Scientist Internship
   * AGI, Amazon
   * Research on toxic content detection using LLMs
