@@ -80,6 +80,7 @@ See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more d
 
 Conference Publications (* means equal contributions)
 ============
+* **Jiang Zhang**, Rohan Sequeira, Konstantinos Psounis. [SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models]()[C]. PETS, 2025(2).
 * **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling
 Large Language Models]() [C]. AAAI, 2024.
 * **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4).
