@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 =========
-I am a Research Scientist at Meta. Previously, I completed my PhD degree in EE at [University of Southern California](https://homeadmin.usc.edu/www/), supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). I received my Bachelor's Degree of Science in Automation from Beijing Institute of Technology in 2019, supervised by Prof. [Yuanqing Xia](http://ac.bit.edu.cn/szdw/jsdw/20150206132638749920/20150206132641418489/index.htm) and Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024). 
+I am a Research Scientist at Meta. Previously, I completed my PhD degree in EE at [University of Southern California](https://homeadmin.usc.edu/www/) in 2024, supervised by Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/). During my PhD study at USC, I also received two Master's Degree of Science (EE and CS). My research interests focus on enhancing the privacy and security of ML systems, with applications in online advertising, recommendation systems, and large foundation models.
 
 Education
 =========
