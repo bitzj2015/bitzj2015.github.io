@@ -40,7 +40,7 @@ Research Experience
   * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
   * Research interests: Machine learning and data privacy with applications to computer networks
   * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
-  * Publications: NDSS (1), PETS (2), AAAI (1) etc.
+  * Publications: NDSS (1), PETS (3), AAAI (1) etc.
   
 * 03/05/2019-06/30/2019: Research Internship
   * AST Lab, Department of Computer Science, ETH Zurich, 
@@ -48,7 +48,7 @@ Research Experience
   * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
   * Publications: OSDI (1).
   
-* 01/01/2017 - 03/04/2019: Research Assistant
+* 01/01/2017 - 03/04/2019: Undergraduate Research Assistant
    * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
    * Research interests: Deep reinforcement learning, mobile crowdsensing and control theory
    * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
@@ -80,8 +80,8 @@ See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more d
 
 Conference Publications (* means equal contributions)
 ============
-* **Jiang Zhang**, Rohan Sequeira, Konstantinos Psounis. [SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models]() [C]. PETS, 2025(2).
-* **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models]() [C]. AAAI, 2024.
+* **Jiang Zhang**, Rohan Sequeira, Konstantinos Psounis. [SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models](https://arxiv.org/pdf/2503.03160) [C]. PETS, 2025(2). (Artifact: [SpinML](https://github.com/bitzj2015/SpinML-Artifact/tree/main))
+* **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303) [C]. AAAI, 2024. (Artifact: [BDLLM]([https://github.com/bitzj2015/SpinML-Artifact/tree/main](https://github.com/bitzj2015/BDLLM)))
 * **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4).
 * Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1).
 * **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
