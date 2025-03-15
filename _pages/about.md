@@ -36,7 +36,7 @@ Education
 
 Research Experience
 ===================
-* 08/19/2019-05/08/2024: Research Asistant
+* 08/19/2019-05/08/2024: Research Assistant
   * NetPD Lab, ECE Department, USC 
   * Research interests: Machine learning and data privacy in AI-enabled network applications
   * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
