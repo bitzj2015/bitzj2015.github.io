@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Jiang Zhang"
   avatar           : "004.JPG"
-  bio              : "EE PhD student at University of Southern California"
-  location         : "Los Angeles, USA"
+  bio              : "Research Scientist at Meta, PhD from USC"
+  location         : "Menlo Park, CA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en"
   email            : "jiangzha@usc.edu"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiang-zhang-a55815194/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
