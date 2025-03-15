@@ -37,19 +37,19 @@ Education
 Research Experience
 ===================
 * 08/19/2019-05/08/2024: Research Asistant
-  * NetPD Lab, Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California 
-  * Research interests: Machine learning and data privacy with applications to computer networks
+  * NetPD Lab, ECE Department, USC 
+  * Research interests: Machine learning and data privacy in AI-enabled network applications
   * Supervisor: Prof. [Konstantinos Psounis](https://sites.usc.edu/kpsounis/)
   * Publications: NDSS (1), PETS (3), AAAI (1) etc.
   
 * 03/05/2019-06/30/2019: Research Internship
-  * AST Lab, Department of Computer Science, ETH Zurich, 
+  * AST Lab, CS Department, ETH Zurich, 
   * Research interests: LLVM IR and sanitizers
   * Supervisor: Prof. [Zhendong Su](https://scholar.google.com/citations?user=RivxoIcAAAAJ&hl=zh-CN&oi=ao)
   * Publications: OSDI (1).
   
 * 01/01/2017 - 03/04/2019: Undergraduate Research Assistant
-   * National Key Laboratory of Complex System Intelligent Control and Decision, Beijing Institute of Technology
+   * National Key Laboratory of Complex System Intelligent Control and Decision, BIT
    * Research interests: Deep reinforcement learning, mobile crowdsensing and control theory
    * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
    * Publications: INFOCOM (1), TMC (1), TC(1), etc.
@@ -82,10 +82,10 @@ Conference Publications (* means equal contributions)
 ============
 * **Jiang Zhang**, Rohan Sequeira, Konstantinos Psounis. [SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models](https://arxiv.org/pdf/2503.03160) [C]. PETS, 2025(2). (Artifact: [SpinML](https://github.com/bitzj2015/SpinML-Artifact/tree/main))
 * **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303) [C]. AAAI, 2024. (Artifact: [BDLLM](https://github.com/bitzj2015/BDLLM))
-* **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4).
-* Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1).
-* **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022.
-* **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021.
+* **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4). (Artifact: [DeHarpo](https://github.com/bitzj2015/YT-Project))
+* Ahmed Roushdy Elkordy\*, **Jiang Zhang**\*, Yahya H. Ezzeldin, Konstantinos Psounis, Salman Avestimehr. [How Much Privacy Does Federated Learning with Secure Aggregation Guarantee?](https://arxiv.org/abs/2208.02304) [C]. PETS, 2023(1). (Artifact: [MISA](https://github.com/bitzj2015/secure_aggregation))
+* **Jiang Zhang**, Konstantinos Psounis, Muhammad Haroon, Zubair Shafiq. [HARPO: Learning to Subvert Online Behavioral Advertising](https://arxiv.org/abs/2111.05792v2) [C]. NDSS, 2022. (Artifact: [Harpo](https://github.com/bitzj2015/Harpo-Artifacts))
+* **Jiang Zhang**, Shuai Wang, Manuel Rigger, Pingjia He, and Zhendong Su. [SanRazor: Reducing Redundant Sanitizer Checks in C/C++ Programs](https://www.usenix.org/conference/osdi21/presentation/zhang) [C]. OSDI, 2021. (Artifact: [Sanrazor](https://github.com/SanRazor-repo/SanRazor))
 * Yufeng Zhan, **Jiang Zhang**. [An Incentive Mechanism Design for Efficient Edge Learning by Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9155268) [C]. INFOCOM, 2020.
 
 Journal Publications
