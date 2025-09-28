@@ -80,6 +80,7 @@ See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more d
 
 Conference Publications (* means equal contributions)
 ============
+* **Jiang Zhang**, Sumit Kumar, Wei Chang, Yubo Wang, Feng Zhang, Weize Mao, Hanchao Yu, Aashu Singh, Min Li, Qifan Wang. [Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737255) [C]. KDD, 2025.
 * **Jiang Zhang**, Rohan Sequeira, Konstantinos Psounis. [SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models](https://arxiv.org/pdf/2503.03160) [C]. PETS, 2025(2). (Artifact: [SpinML](https://github.com/bitzj2015/SpinML-Artifact/tree/main))
 * **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303) [C]. AAAI, 2024. (Artifact: [BDLLM](https://github.com/bitzj2015/BDLLM))
 * **Jiang Zhang**, Hadi Askari, Konstantinos Psounis, Zubair Shafiq. [No Video Left Behind: A Utility-Preserving Obfuscation Approach for YouTube Recommendations](https://arxiv.org/abs/2210.08136) [C]. PETS, 2023(4). (Artifact: [DeHarpo](https://github.com/bitzj2015/YT-Project))
@@ -97,7 +98,7 @@ Journal Publications
 * Yufeng Zhan, Chi Harold Liu, Yinuo Zhao, **Jiang Zhang**, Jian Tang. [Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/8758205) [J]. IEEE Transactions on Mobile Computing, 2019.
 * Yufeng Zhan, **Jiang Zhang**, Peng Li, Yuanqing Xia. Crowdtraining to Mobile Edge Devices in Industry Internet of Things by Deep Reinforcement Learning Approach [J]. IEEE Network, 2019.
 
-See my [Google Scholar](https://scholar.google.com/citations?user=2HuRV6wAAAAJ&hl=en) for more details.
+See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=HGQRC74AAAAJ&authuser=1) for more details.
 
 Skills
 ======
