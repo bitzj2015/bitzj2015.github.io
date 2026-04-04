@@ -34,6 +34,32 @@ Education
   * Major: Automation (Xu Teli Elite Class)
   * GPA: 92.31/100 (rank: 1/17)
 
+Work Experience
+===============
+* 03/01/2025 - Present: Senior Research Scientist
+  * MRS, Meta
+  
+* 05/13/2024 - 03/01/2025: Research Scientist
+  * MRS, Meta
+ 
+* 05/15/2023 - 07/28/2023: Applied Scientist Internship
+  * AGI, Amazon
+  * Research on toxic content detection using LLMs
+ 
+* 05/16/2022 - 08/19/2022: Applied Scientist Internship
+  * Alexa AI, Amazon
+  * Research on zero-shot cross-lingual named entity recognition
+
+* 05/17/2021 - 08/20/2021: Applied Scientist Internship
+  * Alexa AI, Amazon
+  * Research on detecting personal identifiable information
+
+* 05/18/2020 - 08/21/2020: Applied Scientist Internship
+  * Alexa AI, Amazon
+  * Research on heuristics for effective quantization
+
+See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
+
 Research Experience
 ===================
 * 08/19/2019-05/08/2024: Research Assistant
@@ -54,32 +80,9 @@ Research Experience
    * Supervisor: Prof. [Yuanqing Xia](https://scholar.google.com/citations?user=HtedN3oAAAAJ&hl=zh-CN&oi=ao), Prof. [Yufeng Zhan](https://ieeexplore.ieee.org/author/37085745024)
    * Publications: INFOCOM (1), TMC (1), TC(1), etc.
 
-Work Experience
-===============
-* 05/13/2024 - Present: Research Scientist
-  * Meta
- 
-* 05/15/2023 - 07/28/2023: Applied Scientist Internship
-  * AGI, Amazon
-  * Research on toxic content detection using LLMs
- 
-* 05/16/2022 - 08/19/2022: Applied Scientist Internship
-  * Alexa AI, Amazon
-  * Research on zero-shot cross-lingual named entity recognition
-
-* 05/17/2021 - 08/20/2021: Applied Scientist Internship
-  * Alexa AI, Amazon
-  * Research on detecting personal identifiable information
-
-* 05/18/2020 - 08/21/2020: Applied Scientist Internship
-  * Alexa AI, Amazon
-  * Research on heuristics for effective quantization
-
-See my [LinkedIn](https://www.linkedin.com/in/jiang-zhang-a55815194/) for more details.
-
-
 Conference Publications (* means equal contributions)
 ============
+* **Jiang Zhang**, Yubo Wang, Wei Chang, Lu Han, Xingying Cheng, Feng Zhang, Min Li, Songhao Jiang, Wei Zheng, Harry Tran, Zhen Wang, Lei Chen, Yueming Wang, Benyu Zhang, Xiangjun Fan, Bi Xue, Qifan Wang. [Rethinking ANN-based Retrieval: Multifaceted Learnable Index for Large-scale Recommendation System](https://arxiv.org/pdf/2602.16124) [C]. Under submission, 2026.
 * **Jiang Zhang**, Sumit Kumar, Wei Chang, Yubo Wang, Feng Zhang, Weize Mao, Hanchao Yu, Aashu Singh, Min Li, Qifan Wang. [Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737255) [C]. KDD, 2025.
 * **Jiang Zhang**, Rohan Sequeira, Konstantinos Psounis. [SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models](https://arxiv.org/pdf/2503.03160) [C]. PETS, 2025(2). (Artifact: [SpinML](https://github.com/bitzj2015/SpinML-Artifact/tree/main))
 * **Jiang Zhang**, Qiong Wu, Yiming Xu, Cheng Cao, Zheng Du, Konstantinos Psounis. [Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models](https://arxiv.org/abs/2312.08303) [C]. AAAI, 2024. (Artifact: [BDLLM](https://github.com/bitzj2015/BDLLM))
